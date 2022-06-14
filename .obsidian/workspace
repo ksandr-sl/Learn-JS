@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Methods, This.md",
-            "mode": "preview"
+            "file": "Методы массивов.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods, This.md",
+                "file": "Методы массивов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a2a9468e726fe934",
   "lastOpenFiles": [
+    "Методы массивов.md",
+    "Массивы.md",
+    "Методы у примитивов.md",
+    "Строки.md",
+    "Типы данных.md",
     "Methods, This.md",
     "Тип данных Symbol.md",
     "Objects.md",
     "Конструкторы.md",
-    "Клонирование объектов, Object.assign.md",
-    "Learn-JS.md",
-    "Типы данных.md",
-    "Числа.md",
-    "Массивы.md",
-    "Строки.md"
+    "Клонирование объектов, Object.assign.md"
   ]
 }
