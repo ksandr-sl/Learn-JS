@@ -161,4 +161,4 @@ alert( str.substr(-4, 2) );
 
 ---
 
-[[Типы данных]]
+[[Primitives]]

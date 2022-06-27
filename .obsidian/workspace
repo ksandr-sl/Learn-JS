@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Методы массивов.md",
+            "file": "Сlosures.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "стрело",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Методы массивов.md",
+                "file": "Сlosures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a2a9468e726fe934",
   "lastOpenFiles": [
-    "Методы массивов.md",
-    "Массивы.md",
-    "Методы у примитивов.md",
-    "Строки.md",
-    "Типы данных.md",
+    "Сlosures.md",
+    "Functions.md",
     "Methods, This.md",
-    "Тип данных Symbol.md",
-    "Objects.md",
-    "Конструкторы.md",
-    "Клонирование объектов, Object.assign.md"
+    "Symbol.iterator.md",
+    "Strings.md",
+    "Primitive Methods.md",
+    "Optional chaining.md",
+    "Converting Objects to Primitives.md",
+    "Array Methods.md",
+    "Arrays.md"
   ]
 }

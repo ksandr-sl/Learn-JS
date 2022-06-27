@@ -31,4 +31,4 @@ alert(null.test); // ошибка
 ```
 ---
 
-[[Типы данных]]
+[[Primitives]]

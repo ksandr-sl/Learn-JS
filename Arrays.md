@@ -36,4 +36,4 @@ for (let item of arr) {
 
 ---
 
-[[Типы данных]]
+[[Learn-JS]]

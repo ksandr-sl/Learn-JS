@@ -29,3 +29,5 @@ for (let element of obj) {
 // ['age', 30]
 // ['likes', 'pizza']
 ```
+
+[[Symbol]]
